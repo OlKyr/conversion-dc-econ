@@ -2,4 +2,5 @@ Conversions
 -Dollars to cents
 -Gallons to liters
 -Hours to minutes
-
+-Feets to inches
+-Degree to radiance
